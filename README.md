@@ -1,4 +1,4 @@
-# Credit-Card-Fraud-Detection-System-using-Machine-Learning-Techniques
+# Credit Card Fraud Detection System using Machine Learning Techniques
 # Dataset
 https://drive.google.com/file/d/1sk6PmpABnYs3E_q-l4Lgp0IVcRCanhOt/view?usp=sharing
 # Description
